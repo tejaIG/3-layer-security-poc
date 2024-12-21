@@ -1,0 +1,49 @@
+/* Custom styling for the authentication system */
+.stButton > button {
+    width: 100%;
+    background-color: #1f77b4;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    transition: background-color 0.3s;
+}
+
+.stButton > button:hover {
+    background-color: #2d8fd5;
+}
+
+.stTextInput > div > div > input {
+    border-radius: 5px;
+    border: 1px solid #1f77b4;
+}
+
+.success-message {
+    background-color: #d4edda;
+    color: #155724;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.error-message {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.info-box {
+    background-color: #f0f2f6;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.header-text {
+    color: #1f77b4;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
