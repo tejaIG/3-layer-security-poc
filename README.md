@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 **Overview**  
+## 🌟 **Description**  
 This repository hosts a **Proof of Concept (PoC)** for a **3-layer security architecture** implemented in Python. It demonstrates a robust security model with **authentication**, **authorization**, and **data encryption** to ensure maximum protection.  
 
 ---
