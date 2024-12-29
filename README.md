@@ -1,7 +1,3 @@
-Here's an enhanced and more visually appealing version of your README:  
-
----
-
 # **3-Layer Security PoC**  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/tejaIG/3-layer-security-poc?color=blue&label=Repo%20Size)  
